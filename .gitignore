@@ -2,8 +2,10 @@ Binaries
 DerivedDataCache
 Intermediate
 Saved
+Plugins/Developer
 .vscode
 .vs
+.vsconfig
 *.VC.db
 *.opensdf
 *.opendb
@@ -12,3 +14,5 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+*.idea
+Content/Maps
